@@ -95,7 +95,7 @@ function ContactSection() {
                 type="text"
                 id="name"
                 name="name"
-                className="peer h-10 w-full border-b-2 border-gray-300 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500 bg-transparent"
+                className="peer h-10 w-full border-b-2 border-neutral-700 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500 bg-transparent"
                 placeholder="Name"
               />
               <label
@@ -110,7 +110,7 @@ function ContactSection() {
                 type="email"
                 id="email"
                 name="email"
-                className="peer h-10 w-full border-b-2 border-gray-300 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500 bg-transparent"
+                className="peer h-10 w-full border-b-2 border-neutral-700 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500 bg-transparent"
                 placeholder="Email"
               />
               <label
@@ -124,7 +124,7 @@ function ContactSection() {
               <textarea
                 id="message"
                 name="message"
-                className="peer h-32 w-full border-b-2 border-gray-300 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500 bg-transparent"
+                className="peer h-32 w-full border-b-2 border-neutral-700 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500 bg-transparent"
                 placeholder="Message"
               />
               <label
