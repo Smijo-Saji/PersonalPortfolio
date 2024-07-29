@@ -47,7 +47,7 @@ function ContactSection() {
             <p className="text-neutral-400">smijosaji.2@gmail.com</p>
             <a
               target="blank"
-              href="mailto:example@example.com"
+              href="mailto:smijosaji.2@gmail.com"
               className="flex text-neutral-400 text-sm hover:ml-2 transition-all duration-300 cursor-pointer items-center"
             >
               <p>Write Me</p>
@@ -60,7 +60,7 @@ function ContactSection() {
             <p className="text-neutral-400">9645211753</p>
             <a
               target="blank"
-              href="https://wa.me/964521173"
+              href="https://wa.me/+919645211753"
               className="flex text-neutral-400 text-sm hover:ml-2 transition-all duration-300 cursor-pointer items-center"
             >
               <p>Write Me</p>
@@ -95,7 +95,7 @@ function ContactSection() {
                 type="text"
                 id="name"
                 name="name"
-                className="peer h-10 w-full border-b-2 border-gray-300 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500"
+                className="peer h-10 w-full border-b-2 border-gray-300 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500 bg-transparent"
                 placeholder="Name"
               />
               <label
@@ -110,7 +110,7 @@ function ContactSection() {
                 type="email"
                 id="email"
                 name="email"
-                className="peer h-10 w-full border-b-2 border-gray-300 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500"
+                className="peer h-10 w-full border-b-2 border-gray-300 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500 bg-transparent"
                 placeholder="Email"
               />
               <label
@@ -124,7 +124,7 @@ function ContactSection() {
               <textarea
                 id="message"
                 name="message"
-                className="peer h-32 w-full border-b-2 border-gray-300 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500"
+                className="peer h-32 w-full border-b-2 border-gray-300 text-neutral-50 mt-3 placeholder-transparent focus:outline-none focus:border-orange-500 bg-transparent"
                 placeholder="Message"
               />
               <label
